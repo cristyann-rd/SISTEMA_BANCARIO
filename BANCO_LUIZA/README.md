@@ -58,7 +58,7 @@ Você precisa ter o **Python 3.8+** instalado.
 
 ```bash
 # Clone o repositório
-git clone https://github.com/cristyann-rd/seu-repositorio.git
+git clone https://github.com/cristyann-rd/SISTEMA_BANCARIO.git
 
 # Acesse a pasta
 cd seu-repositorio
@@ -128,7 +128,8 @@ Saldo: R$500.00
 
 ---
 
-## 👩‍💻 Autora
+## 👩‍💻 Autor
 
-Desenvolvido durante o **Bootcamp Luiza Labs**.  
+Desenvolvido durante o **Bootcamp Luiza Labs**.
+Por mim Cristyann Rodrigo
 Feito com Python e bastante vontade de aprender. 🐍
