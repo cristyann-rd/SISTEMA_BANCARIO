@@ -61,10 +61,10 @@ Você precisa ter o **Python 3.8+** instalado.
 git clone https://github.com/cristyann-rd/SISTEMA_BANCARIO.git
 
 # Acesse a pasta
-cd seu-repositorio
+cd BANCO_LUIZA
 
 # Execute o script
-python sistema_bancario.py
+python Banco_luiza_labs.py
 ```
 
 Nenhuma dependência externa — só a biblioteca padrão do Python.
